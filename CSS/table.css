@@ -1,0 +1,53 @@
+.container {
+    margin-left: 15em;
+}
+
+.data1 {
+    width: auto;
+    color: #16855a;
+    font-weight: bolder;
+}
+
+.cgpa {
+    margin: auto;
+    text-align: center;
+}
+
+.top1 {
+    height: 11em;
+    width: 101%;
+    overflow: hidden;
+}
+
+img {
+    width: 101%;
+}
+
+.component {
+    width: 97%;
+    max-width: 1300px;
+    margin-top: 2em;
+    overflow: auto;
+}
+
+table {
+    border-collapse: collapse;
+    overflow-x: auto;
+}
+
+tbody th {
+    background-color: #31bc86;
+    padding: 1em 1.5em;
+    text-align: left;
+    font-weight: bold;
+    color: #fff;
+    position: static;
+}
+
+tbody tr {
+    text-align: center;
+}
+
+tbody tr:nth-child(2n-1) {
+    background-color: #eaf0e8;
+}

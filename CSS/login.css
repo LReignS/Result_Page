@@ -1,0 +1,76 @@
+.login {
+    margin: 5% 5% 5% 5%;
+    background-color: #F4D03F;
+    background-image: linear-gradient(132deg, #F4D03F 0%, #16A085 100%);
+    text-align: center;
+    border-radius: 3em;
+    min-width: 220px;
+}
+
+.part1 {
+    margin: 5% auto;
+    max-width: 550px;
+    min-width: 330px;
+}
+
+h1 {
+    font-weight: bolder;
+    font-size: 2em;
+    font-family: sans-serif;
+}
+
+.para1 {
+    font-weight: bolder;
+    font-size: 1.75em;
+    font-family: sans-serif;
+    color: rgb(77, 45, 9);
+}
+
+.lgin {
+    border: 0ch;
+    border-radius: 1.5em;
+    border-collapse: collapse;
+    padding: 0.75em 3em;
+}
+
+.std {
+    padding: 2em 2em 2em 2em;
+    font-weight: bolder;
+    font-size: 1.15em;
+    font-family: sans-serif;
+}
+
+button {
+    border: 0ch;
+    border-radius: 3em;
+    border-collapse: collapse;
+    padding: 0.8em 2em;
+    font-weight: bolder;
+    font-size: 1.35em;
+    font-family: sans-serif;
+    color: rgb(19, 177, 132);
+}
+
+button:hover {
+    color: coral;
+    font-size: 1.41em;
+    padding: 0.74em 1.97em;
+}
+
+a {
+    color: brown;
+}
+
+a:hover {
+    color: #000000;
+}
+
+button:focus {
+    padding-top: 5px;
+    color: blue;
+}
+
+body {
+    font-family: 'Lato', Arial, sans-serif;
+    color: #131313;
+}
